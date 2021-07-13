@@ -1,8 +1,3 @@
-/*
- * Hồ Tấn Thành Nhân
- * DE150039
- * SE1505
- */
 
 package loginbank;
 
