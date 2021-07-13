@@ -1,8 +1,3 @@
-/*
- * Ho Tan Thanh Nhan
- * DE150039
- * SE1505
- */
 package managementcandidates;
 
 public class FresherCandidate extends Candidates {
